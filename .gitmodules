@@ -1,0 +1,3 @@
+[submodule "async_generator"]
+	path = async_generator
+	url = https://git.sailfishos.org/mirror/async_generator.git
