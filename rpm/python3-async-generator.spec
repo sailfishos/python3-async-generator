@@ -24,5 +24,5 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%{python3_sitearch}/async_generator
-%{python3_sitearch}/async_generator-*.egg-info
+%{python3_sitelib}/async_generator
+%{python3_sitelib}/async_generator-*.egg-info
